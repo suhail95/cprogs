@@ -1,4 +1,9 @@
 /*various operations on linked list as ask by a company*/
+/**
+*** By Suhail Khan
+*** New Delhi
+**/
+
 #include<stdio.h>
 #include<stdlib.h>
 struct node
